@@ -1,8 +1,8 @@
 export default function () {
 	return [
-		{title: 'JS'}, 
-		{title: 'Harry Potter'},
-		{title: 'Ruby'}, 
-		{title: 'Lord of the rings'}
+		{title: 'JS', pages: '1'}, 
+		{title: 'Harry Potter', pages: '2'},
+		{title: 'Ruby', pages: '3'}, 
+		{title: 'Lord of the rings', pages: '4'}
 	]
 } 
